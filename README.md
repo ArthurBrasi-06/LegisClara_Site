@@ -1,102 +1,48 @@
-🌐 LegisClara.AI — Simplificando a Participação Cidadã
-A LegisClara é uma plataforma que utiliza Inteligência Artificial para traduzir, resumir e explicar Projetos de Lei de forma simples, acessível e participativa — aproximando o cidadão das decisões políticas que impactam sua vida.
+ LegisClara.AI — Simplificando a Participação Cidadã
 
-Desenvolvido para o Hackathon, o projeto entrega clareza, engajamento e inteligência aplicada ao universo legislativo.
-
+A LegisClara é uma plataforma que utiliza Inteligência Artificial para traduzir, resumir e explicar Projetos de Lei em uma linguagem simples, acessível e participativa, aproximando o cidadão das decisões políticas que impactam sua vida.
 <img width="1888" height="811" alt="image" src="https://github.com/user-attachments/assets/571142c5-4ff6-4610-978a-5efc1ca8476a" />
 
+Grande parte da população não compreende a linguagem jurídica presente nos Projetos de Lei. A LegisClara resolve isso com IA capaz de:
 
-🧠 Por que a LegisClara existe?
+- Traduzir juridiquês para português claro
 
-O Brasil produz milhares de Projetos de Lei e decisões legislativas todos os anos, mas o cidadão comum:
+- Resumir PLs em segundos
 
-não entende a linguagem jurídica,
+- Facilitar o entendimento sobre impacto e relevância
 
-não sabe o que está sendo votado,
+- Estimular participação cidadã
 
-não sabe como isso afeta sua vida,
+- Gerar análises e insights sobre temas legislativos
 
-e raramente consegue participar das discussões.
-
-A LegisClara resolve isso com:
-
-✔ Explicações simples
-✔ Resumos com IA
-✔ Visualização de temas
-✔ Engajamento cidadão
-✔ Facilitação do entendimento político
 
 <img width="1876" height="795" alt="image" src="https://github.com/user-attachments/assets/6da09d82-207d-4990-b7bb-30d6254b77d5" />
 
+
+    Funcionalidades: Coleta inteligente de Projetos de Lei, Explicações geradas por IA, Engajamento cidadão com enquetes e feedback, Análises e métricas em tempo real, Layout moderno e responsivo, Identidade visual em alta qualidade
+
 <img width="1873" height="766" alt="image" src="https://github.com/user-attachments/assets/f2c30e52-b026-4bef-a848-b6fbe416852b" />
 
-🚀 Funcionalidades
-🔍 1. Coleta Inteligente de Projetos de Lei
 
-A plataforma identifica os PLs e pautas em discussão no Legislativo.
 
-🤖 2. IA que Explica Tudo
 
-Textos complexos são transformados em resumos claros e acessíveis.
 
-🗳 3. Engajamento Cidadão
 
-Enquetes, feedback, opiniões e participação ativa.
-
-📊 4. Insights e Dados
-
-Gráficos, métricas e estatísticas em tempo real sobre impacto, temas e tendências.
-
-🎨 Design do Site
-
-O site foi criado como landing page institucional da LegisClara, incluindo:
-
-Hero section com identidade visual da IA
-
-Explicação da solução
-
-Cards de funcionalidades
-
-Apresentação do time
-
-Sessão de contato
-
-Layout responsivo e moderno
-
-Imagens em alta qualidade
-
-🛠 Tecnologias Utilizadas
-
-HTML5
-
-CSS3
-
-JavaScript
-
-VSCode
-
-📂 Estrutura do Projeto
-LegisClara.AI/
-│── index.html
-│── style.css
-│── script.js
-│── /imgs
-│    ├── logo.png
-│    ├── hero.png
-│    ├── arthur.jpg
-│    ├── kelvin.jpg
-│    └── felipe.jpg
 
 📞 Contato
-
-📧 legisclara@gmail.com
+E-mail: legisclara@gmail.com
 
 
 ⭐ Contribuições
+Pull requests são bem-vindos.
+Sinta-se livre para enviar sugestões, melhorias ou novas ideias.
 
-Pull requests são bem-vindos!
-Sinta-se livre para enviar sugestões, melhorias ou novas ideias para evoluir a plataforma.
 
 📄 Licença
+Projeto desenvolvido para fins educacionais e de inovação no contexto de hackathon.
 
-Este projeto foi desenvolvido para fins educacionais e de inovação no contexto de hackathon.
+
+
+
+
+
