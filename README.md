@@ -3,6 +3,9 @@ A LegisClara é uma plataforma que utiliza Inteligência Artificial para traduzi
 
 Desenvolvido para o Hackathon, o projeto entrega clareza, engajamento e inteligência aplicada ao universo legislativo.
 
+<img width="1888" height="811" alt="image" src="https://github.com/user-attachments/assets/571142c5-4ff6-4610-978a-5efc1ca8476a" />
+
+
 🧠 Por que a LegisClara existe?
 
 O Brasil produz milhares de Projetos de Lei e decisões legislativas todos os anos, mas o cidadão comum:
@@ -22,6 +25,10 @@ A LegisClara resolve isso com:
 ✔ Visualização de temas
 ✔ Engajamento cidadão
 ✔ Facilitação do entendimento político
+
+<img width="1876" height="795" alt="image" src="https://github.com/user-attachments/assets/6da09d82-207d-4990-b7bb-30d6254b77d5" />
+
+<img width="1873" height="766" alt="image" src="https://github.com/user-attachments/assets/f2c30e52-b026-4bef-a848-b6fbe416852b" />
 
 🚀 Funcionalidades
 🔍 1. Coleta Inteligente de Projetos de Lei
